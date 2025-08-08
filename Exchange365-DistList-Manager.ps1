@@ -1,5 +1,5 @@
 # Script de Gerenciamento de Listas de Distribuição - Office 365
-# Autor: Assistant
+# Autor: Elvis Almeida
 # Versão: 2.0
 # Descrição: Script interativo para gerenciar listas de distribuição e contatos externos
 
